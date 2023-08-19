@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lopeszd" alt="lopeszd" /></a> </p> -->
 
-- 🔭 Atualmente fazendo projetos próprios [Rede Force](discord.gg/QdfBfUWj2h)
+- 🔭 Atualmente fazendo projetos próprios [Rede Force](https://discord.gg/QdfBfUWj2h)
 
 - 🌱 Estou fazendo bootcamp **Full Stack Java + Angular**
 
-- 👯 Estou colaborando em [Mania Do Brasil](discord.gg/u4zsD9X5e2)
+- 👯 Estou colaborando em [Mania Do Brasil](https://discord.gg/u4zsD9X5e2)
 
-- 👨‍💻Meu discord [lopes#0000 / @lopes](lopes#0000 / @lopes)
+- 👨‍💻Meu discord **[lopes#0000 / @lopes]**
 
 - 📫 Meu contato **brunolopespenna@gmail.com**
 
