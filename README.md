@@ -20,10 +20,6 @@
 
 - ⚡ Sobre mim **Tenho Tenho 20 anos, estou no 2 semestre da faculdade, estou a procura de um estágio em desenvolvimento front-end HTML e JavaScript e atualmente faço um bootcamp de Java full stack + Angular**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">ME ache:</h3>
 <p align="left">
 <!--<a href="https://dev.to/@lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@lopes" height="30" width="40" /></a>-->
