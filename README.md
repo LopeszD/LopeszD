@@ -20,7 +20,7 @@
 
 - ⚡ Sobre mim **Tenho Tenho 20 anos, estou no 2 semestre da faculdade, estou a procura de um estágio em desenvolvimento front-end HTML e JavaScript e atualmente faço um bootcamp de Java full stack + Angular**
 
-<h3 align="left">ME ache:</h3>
+<h3 align="left">Como me achar:</h3>
 <p align="left">
 <!--<a href="https://dev.to/@lopes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@lopes" height="30" width="40" /></a>-->
 <a href="https://www.linkedin.com/in/bruno-lopes-ba316b26b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno lopes" height="30" width="40" /></a>
