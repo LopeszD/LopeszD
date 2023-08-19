@@ -2,9 +2,9 @@
 <h3 align="center">Estudante de Engenharia de software</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lopeszd&label=Profile%20views&color=0e75b6&style=flat" alt="lopeszd" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lopeszd&label=Profile%20views&color=0e75b6&style=flat" alt="lopeszd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lopeszd" alt="lopeszd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lopeszd" alt="lopeszd" /></a> </p> -->
 
 - 🔭 Atualmente fazendo projetos próprios [Rede Force](discord.gg/QdfBfUWj2h)
 
