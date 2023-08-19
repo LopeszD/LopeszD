@@ -18,7 +18,7 @@
 
 - 📄 Meu linkedin [https://www.linkedin.com/in/bruno-lopes-ba316b26b/](https://www.linkedin.com/in/bruno-lopes-ba316b26b/)
 
-- ⚡ Sobre mim: **Tenho 20 anos, estou no 2 semestre da faculdade, estou a procura de um estágio em desenvolvimento front-end HTML e JavaScript e atualmente faço um bootcamp de Java full stack + Angular**
+- ⚡ Sobre mim: **Tenho 20 anos, estou no 2 semestre da faculdade, a procura de um estágio em desenvolvimento front-end HTML e JavaScript, e atualmente faço um bootcamp de Java full stack + Angular**
 
 <h3 align="left">Como me achar:</h3>
 <p align="left">
