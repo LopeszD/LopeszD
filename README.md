@@ -6,19 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lopeszd" alt="lopeszd" /></a> </p> -->
 
-- 🔭 Atualmente fazendo projetos próprios [Rede Force](https://discord.gg/QdfBfUWj2h)
 
-- 🌱 Estou fazendo bootcamp **Full Stack Java + Angular**
-
-- 👯 Estou colaborando em [Mania Do Brasil](https://discord.gg/u4zsD9X5e2)
-
-- 👨‍💻Meu discord **[lopes#0000 / @lopes]**
+<!--- 👨‍💻Meu discord **[lopes#0000 / @lopes]**-->
 
 - 📫 Meu contato **brunolopespenna@gmail.com**
 
 - 📄 Meu linkedin [https://www.linkedin.com/in/bruno-lopes-ba316b26b/](https://www.linkedin.com/in/bruno-lopes-ba316b26b/)
 
-- ⚡ Sobre mim: **Tenho 20 anos, estou no 2 semestre da faculdade, a procura de um estágio em desenvolvimento front-end HTML e JavaScript, e atualmente faço um bootcamp de Java full stack + Angular**
+- ⚡ Sobre mim: **Tenho 21 anos, estou no 3 semestre da faculdade de Analise e Desenvolvimento de Sistemas na PUC MINAS**
 
 <h3 align="left">Como me achar:</h3>
 <p align="left">
