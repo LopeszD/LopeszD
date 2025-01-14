@@ -13,7 +13,7 @@
 
 - 📄 Meu linkedin [https://www.linkedin.com/in/bruno-lopes-ba316b26b/](https://www.linkedin.com/in/bruno-lopes-ba316b26b/)
 
-- ⚡ Sobre mim: **Tenho 21 anos, estou no 3 semestre da faculdade de Analise e Desenvolvimento de Sistemas na PUC MINAS**
+- ⚡ Sobre mim: **Tenho 21 anos, estou no 4 semestre da faculdade de Analise e Desenvolvimento de Sistemas na PUC MINAS**
 
 <h3 align="left">Como me achar:</h3>
 <p align="left">
